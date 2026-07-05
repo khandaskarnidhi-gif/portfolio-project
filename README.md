@@ -50,13 +50,13 @@ Project details are stored in MongoDB and fetched dynamically using a Node.js an
 
 **Live Website**
 
-https://YOUR_NETLIFY_LINK.netlify.app
+https://port-folio-project-eukyvl79x-nidhi-personal-project-1901.vercel.app
 
 ### Backend (Render)
 
 **API Base URL**
 
-https://YOUR_RENDER_LINK.onrender.com
+https://portfolio-project-ifc1.onrender.com
 
 ---
 
